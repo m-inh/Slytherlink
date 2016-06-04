@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Slitherlink:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Slitherlink_jar</output-path>
+    <root id="archive" name="Slitherlink.jar">
+      <element id="module-output" name="Slitherlink" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/org.sat4j.core.jar" path-in-jar="/" />
+      <element id="library" level="project" name="org.sat4j.core" />
+    </root>
+  </artifact>
+</component>
